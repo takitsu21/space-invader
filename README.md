@@ -1,2 +1,2 @@
-# space_invader
+# **Space Invaders**
 Space Invaders Game in python
